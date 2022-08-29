@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#phoneform {
+    float: right;
+    border: 10px solid transparent;
+    padding: 25px;
+}
+
+#iphoneframe {
+    background-repeat: none;
+}
+
+.landform {
+    width: 418px;
+    height: 855px;
+    padding: 40px;
+    border-radius: 70px;
+    text-align: center;
+    margin-top: 105px;
+    margin-left: 15px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+h3 {
+    position: relative;
+    top: 100px;
+}
